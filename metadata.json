@@ -1,0 +1,6 @@
+{
+  "name": "ClearCheck AI – Smart Image Quality Checker",
+  "description": "AI-powered image quality checking for clear, professional, and submission-ready documents.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
