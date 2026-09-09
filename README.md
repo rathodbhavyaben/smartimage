@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app : https://clearchek/apps/771a0022-4d4a-4f84-a8ef-bd7d32e2a745
+View your app :http://localhost:3000/
 
 ## Run Locally
 
